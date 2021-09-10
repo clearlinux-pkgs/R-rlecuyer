@@ -1,0 +1,19 @@
+v0.3-5 - 11/19/2019:
+ - Wei-Chen Chen fixed a NOTE regarding registering dynamic C calls.
+
+v0.3-4.1 - 11/17/2019:
+ - Changes made by Kurt Hornik (fixes return values for functions called by .Call)
+ 
+v0.3-4 - 09/17/2015:
+ - Pierre L'Ecuyer added to Authors
+ - Fixed wrong "UNPROTECT"ing objects
+
+v0.3-3 - 02/01/2012:
+ - .First.Lib replaced by .onLoad, .Last.Lib by .onUnload
+
+v0.3-2 - 01/25/2012: 
+ - NAMESPACE added
+ - In the C code, functions printf and exit replaced by Rprintf and error, respectively.
+ - Minor cosmetic changes.
+
+04/29/2004: Initial version
