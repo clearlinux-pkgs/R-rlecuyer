@@ -5,7 +5,7 @@
 #
 Name     : R-rlecuyer
 Version  : 0.3.7
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/rlecuyer_0.3-7.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rlecuyer_0.3-7.tar.gz
 Summary  : R Interface to RNG with Multiple Streams
